@@ -4,14 +4,6 @@ import '@vaadin/vaadin-button/vaadin-button.js';
 import '@vaadin/vaadin-grid/vaadin-grid.js';
 import '@vaadin/vaadin-date-picker/vaadin-date-picker.js';
 
-/**
- * `polymer3-element`
- * 
- *
- * @customElement
- * @polymer
- * @demo demo/index.html
- */
 class Polymer3Index extends PolymerElement {
   static get template() {
     return html`
